@@ -1,6 +1,9 @@
 PyCube3DViewer
 ==============
 
+
+![screenshot](https://raw.github.com/shengyu7697/PyCube3DViewer/master/screenshot/screenshot.png)
+
 ```
 sudo apt-get install python-qt4-gl
 sudo -H pip install pyopengl
