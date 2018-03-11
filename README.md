@@ -15,6 +15,13 @@ sudo -H pip install pyopengl
 $ ./cube3dviewer.py
 ```
 
+## ToDo
+* ~Read pose from file~
+* ~Show position~
+* Show orientation
+* Support .obj file
+* Receive pose from socket
+
 ## System Requirement
 Python  
 
